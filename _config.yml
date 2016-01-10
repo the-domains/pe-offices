@@ -1,0 +1,28 @@
+name: PE Offices
+favicon: null
+layout_spectrum: 0.5210443532560021
+typography_spectrum: 0.2397550840396434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.025661758380010724
+  lightness: 0.7697508172132075
+  saturation: 0.5552209818270057
+  rhythmicContrast: 0.49931633099913597
+purpose: []
